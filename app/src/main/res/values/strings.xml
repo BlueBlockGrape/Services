@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Servicios2</string>
+    <string name="channel_name">canal</string>
+    <string name="channel_description">descripsion del canal</string>
+    <string name="boton1">PLAY</string>
+    <string name="boton2">DETENER</string>
+    <string name="boton3">REGRESAR</string>
+    <string name="tv_name">Nombre</string>
+</resources>
